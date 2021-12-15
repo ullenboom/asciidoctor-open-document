@@ -42,7 +42,7 @@ docker run --rm -v $(pwd):/documents/ curs/asciidoctor-od a-od test.adoc odt
 General syntax of `a-od` is:
 
 ----
-a-od [file] [output format] [custom fodt temlate] [custom conversion library]
+a-od [file] [output format] [custom fodt template] [custom conversion library]
 ----
 
 ==== Or step by step without `a-od`
